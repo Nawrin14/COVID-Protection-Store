@@ -26,11 +26,11 @@ It is a website for an online store which is built with HTML, CSS and PHP. This 
    1. Install [XAMPP](https://www.apachefriends.org/download.html)
    2. Open the XAMPP Control Panel and **Start** Apache and MySQL
    3. Open the XAMPP folder in your device
-   4. Then open the htdocs folder and clone this repository in the folder
+   4. Then open the htdocs folder and clone this repository in the folder 
    5. Type **localhost** in the search bar of your browser and press enter
    6. Go to **phpMyAdmin**
    7. Create a new database named "**covid_protection_store**"
-   8. Import the [covid_protection_store.sql](https://github.com/Nawrin14/COVID-Protection-Store/blob/main/covid_protection_store.sql) file in the database
+   8. Import the [covid_protection_store.sql](https://github.com/Nawrin14/Covid-Protection-Store/blob/master/covid_protection_store.sql) file in the database
    9. Then open the [index.php](https://github.com/Nawrin14/COVID-Protection-Store/blob/main/index.php) file in your browser
    10. Now replace the "**.../XAMPP/htdocs**" part of the URL with "**localhost**"
 
