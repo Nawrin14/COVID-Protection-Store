@@ -1,6 +1,6 @@
 # COVID Protection Store
 
-An e-commerce website to buy products needed to fight against COVID-19. The project details can be found here(https://github.com/Nawrin14/COVID-Protection-Store/blob/master/COVID%20Protection%20Store.pdf). 
+An e-commerce website to buy products needed to fight against COVID-19. The project details can be found [here] (https://github.com/Nawrin14/COVID-Protection-Store/blob/master/COVID%20Protection%20Store.pdf).
 
 ## Description
 
